@@ -1,4 +1,4 @@
-# valetudo-soundpacks
+# Norwegian audio translation for Valetudo
 
 Upload no.pkg to a public server. 
 
